@@ -1,0 +1,4 @@
+tkinter
+qrcode
+pillow
+opencv-python
